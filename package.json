@@ -30,6 +30,7 @@
   ],
   "author": "Robin Frischmann",
   "license": "MIT",
+  "typings": "./index.d.ts",
   "devDependencies": {
     "babel": "^6.1.18",
     "babel-cli": "^6.2.0",
